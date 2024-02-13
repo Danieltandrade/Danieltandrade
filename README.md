@@ -3,7 +3,7 @@
 
 Olá, meu nome é Daniel Torres de Andrade.
 
-Sou natural de São Paulo-SP e moro e Uberlândia-MG desde meus 7 anos de idade.
+Sou natural de São Paulo-SP e moro em Uberlândia-MG desde meus 7 anos de idade.
 Atuo como Entregador Técnico e Instrutor de Operações em uma Concessionária de Veículos comerciais Mercedes-Benz, atuando neste mercado a 10 anos.
 Possuo formações C-Sales e C-Driver, ambas obtidas através da Mercedes-Benz.
 Também possuo formação técnica em Eletroeletrônica.
