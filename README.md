@@ -8,8 +8,7 @@ Atuo como Entregador Técnico e Instrutor de Operações em uma Concessionária 
 Possuo formações C-Sales e C-Driver, ambas obtidas através da Mercedes-Benz.
 Também possuo formação técnica em Eletroeletrônica.
 
-Estou buscando uma transição de carreira para area de tecnologia, com grande interesse em Ciência de Dados,
-Análise de Dados e Devenvolvimento Back-end.
+Estou buscando uma transição de carreira para area de tecnologia, com grande interesse em Ciência de Dados.
 
 ## Conecte-se Comigo
 
@@ -27,8 +26,8 @@ Análise de Dados e Devenvolvimento Back-end.
 
 ## 👨‍🎓 Cursos Atualmente
 
-- Microsoft Azure AI Fundamentals - [DIO](https://www.dio.me/)
-- Algoritmos e Lógica de Programação - [Udemy](https://udemy.com)
+- Python Developer - [DIO](https://www.dio.me/)
+- Graduação em Ciência de Dados - [UNIUBE](https://www.uniube.br/)
 
 ## 📚 Referências
 
